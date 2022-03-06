@@ -20,7 +20,7 @@ public  int Kohli(int j) {
 		int Kohli=a.Kohli(40000);
 		System.out.println("amount value is"+Kohli/2);
 		System.out.println((Dhonimsd+Kohli)/2);
-		System.out.println("   ");
+		System.out.println(" thalaivar  ");
 		
 	}
 }
